@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/XMoonlight7?v=4" alt="Marcos Reyes" width="150" style="border-radius: 50%; border: 4px solid #ff6b6b; box-shadow: 0 0 20px #ff6b6b;">
+  <img src="https://avatars.githubusercontent.com/u/XMoonlight7?v=4" alt="Img/Foto.jpg">
 </div>
 
 <div align="center">
