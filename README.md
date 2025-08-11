@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/XMoonlight7?v=4" alt="Img/Foto.jpg">
+  <img src="Img/Foto.jpg">
 </div>
 
 <div align="center">
