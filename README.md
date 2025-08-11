@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="Img/Foto.jpg">
+  <img src="https://github.com/XMoonlight7/XMoonlight7/blob/main/Img/Foto.jpg">
 </div>
 
 <div align="center">
